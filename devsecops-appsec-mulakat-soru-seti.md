@@ -46,7 +46,7 @@
 |---|------|--------|
 | 26 | Threat modeling nedir? ATM makinesi için nasıl yaparsınız? (STRIDE) | Mid |
 | 27 | Bir REST API için threat model nasıl oluşturursunuz? | Senior |
-| 28 | SAST, DAST, IAST ve SCA arasındaki fark nedir? Ne zaman hangisini kullanırsınız? | Mid |
+| 28 | SAST kaynak kodu görüyor, DAST'a ne gerek var? | Mid |
 | 29 | DAST ile SSRF nasıl detect edilir? | Mid |
 | 30 | CI/CD pipeline'ına hangi security check'leri eklersiniz? | Mid |
 | 31 | Git history'de secret sızdıysa ne yaparsınız? | Mid |
